@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Bartosz! 👋
+---
 
-<!--
-**wlodar-b/wlodar-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information Technology and Automation Systems** student at Wrocław University of Science and Technology.
 
-Here are some ideas to get you started:
+---
+### 🛠️ Technical Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Languages:** C++, Python
+*   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols
+*   **Tools & Platforms:** Git, Cursor AI, Visual Studio
+---
+
+### 🚀 Projects & Focus Areas
+
+*   **AI Agents:** Experimenting with multi-agent frameworks like **CrewAI** to automate complex research and development tasks.
+*   **CyberSecurity**
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect!
+
+*   **Location:** Wrocław / Częstochowa, Poland 🇵🇱
+
+---
