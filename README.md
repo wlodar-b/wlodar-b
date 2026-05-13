@@ -1,4 +1,4 @@
-# Hi there, I'm Bartosz! 👋
+# Hi there, I'm Bartek! 👋
 ---
 
 I am an **Information Technology and Automation Systems** student at Wrocław University of Science and Technology.
