@@ -6,7 +6,7 @@ I am an **Information Technology and Automation Systems** student at Wrocław Un
 ---
 ### 🛠️ Technical Toolbox
 
-*   **Languages:** C++, Python
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 *   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols, Metasploit
 ---
 
