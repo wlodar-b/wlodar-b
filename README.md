@@ -6,7 +6,7 @@ I am an **Information Technology and Automation Systems** student at Wrocław Un
 ---
 ### 🛠️ Technical Toolbox
 
-[GitHub stats](https://github-stats-extended.vercel.app/api?username=wlodar-b)](https://github.com/stats-organization/github-stats-extended)
+*   **Languages** C++, Python
 *   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols, Metasploit
 ---
 
