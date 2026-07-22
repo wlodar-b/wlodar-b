@@ -7,13 +7,11 @@ I am an **Information Technology and Automation Systems** student at Wrocław Un
 ### 🛠️ Technical Toolbox
 
 *   **Languages:** C++, Python
-*   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols
-*   **Tools & Platforms:** Git, Cursor AI, Visual Studio
+*   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols, Metasploit
 ---
 
 ### 🚀 Projects & Focus Areas
 
-*   **AI Agents:** Experimenting with multi-agent frameworks like **CrewAI** to automate complex research and development tasks.
 *   **CyberSecurity**
 
 ---
