@@ -21,3 +21,4 @@ I am an **Information Technology and Automation Systems** student at Wrocław Un
 *   **Location:** Wrocław / Częstochowa, Poland 🇵🇱
 
 ---
+![Moje statystyki GitHuba](profile-summary-card-output/2077/0-profile-details.svg)
