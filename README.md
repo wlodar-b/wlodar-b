@@ -6,14 +6,8 @@ I am an **Information Technology and Automation Systems** student at Wrocław Un
 ---
 ### 🛠️ Technical Toolbox
 
-*   **Languages** C++, Python
+*   **Languages** C++, Python, Rust
 *   **Networking & Security:** Cisco IOS, Wireshark, Network Protocols, Metasploit
----
-
-### 🚀 Projects & Focus Areas
-
-*   **CyberSecurity**
-
 ---
 
 ### 📫 Let's Connect!
